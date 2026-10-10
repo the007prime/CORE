@@ -1,0 +1,11 @@
+chromadb
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+llama-index-readers-file
+llama-index-retrievers-bm25
+llama-index-vector-stores-chroma
+sentence-transformers
+PyMuPDF
+
+
